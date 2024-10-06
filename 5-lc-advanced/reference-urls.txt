@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets
+https://github.com/yugabyte/yugabyte-db/blob/master/sample/northwind_data.sql
+
+microsoft/lida: Automatic Generation of Visualizations and Infographics using Large Language Models
+https://github.com/microsoft/lida
+
+LangSmith
+https://smith.langchain.com/hub
+
